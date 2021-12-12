@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f63f0bd-07c3-4259-ad3b-2a5ee33c327f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xMove</find>
+      <find>InitGame</find>
+      <find>ref</find>
+      <find>sana</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\Work\AC\PAOO\PaooGameEtapa1\res</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectId" id="1d5LCgyyeO30drRUhRX9alGCq0D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andreea\Desktop\PaooGame\PaooGame\res\textures" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PaooGame.Main" />
+      <module name="PaooGameEtapa1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f63f0bd-07c3-4259-ad3b-2a5ee33c327f" name="Default Changelist" comment="" />
+      <created>1584389919134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584389919134</updated>
+      <workItem from="1591709895902" duration="13957000" />
+      <workItem from="1591738624174" duration="3561000" />
+      <workItem from="1591779346857" duration="25646000" />
+      <workItem from="1591808295282" duration="8972000" />
+      <workItem from="1591817812276" duration="4649000" />
+      <workItem from="1591858550174" duration="4512000" />
+      <workItem from="1591863132008" duration="15077000" />
+      <workItem from="1591884447463" duration="86000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1591810646245">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1591810646245" />
+    <state x="484" y="260" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591861688036">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="484" y="260" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1591861688036" />
+    <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591816893904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1591816893904" />
+    <state x="462" y="113" key="FileChooserDialogImpl" timestamp="1591868665752">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1591868665752" />
+    <state width="1323" height="251" key="GridCell.Tab.0.bottom" timestamp="1591884541890">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="251" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591884541890" />
+    <state width="1323" height="251" key="GridCell.Tab.0.center" timestamp="1591884541890">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="251" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591884541890" />
+    <state width="1323" height="251" key="GridCell.Tab.0.left" timestamp="1591884541890">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="251" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591884541890" />
+    <state width="1323" height="251" key="GridCell.Tab.0.right" timestamp="1591884541890">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="251" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591884541890" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1591883426154">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591883426154" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1591883426154">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1591883426154" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1591883426154">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1591883426154" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1591883426154">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1591883426154" />
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1591884448218">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1591884448218" />
+    <state x="42" y="0" key="new project wizard" timestamp="1591711783208">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="42" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1591711783208" />
+  </component>
+</project>
